@@ -1,5 +1,5 @@
 ### Olá...
-- 🔭 Cursando: 1º Termo de Ciências da Computação
+- 🔭 Cursando: 2º Termo de Ciências da Computação
 
 <div align="center">
   <a href="https://github.com/VictorUemura">
