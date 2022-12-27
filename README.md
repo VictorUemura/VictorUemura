@@ -1,4 +1,5 @@
 
+
 ### Olá...
 - 🔭 Cursando: 2º Termo de Ciências da Computação
 
@@ -8,8 +9,7 @@
  <br>
 </div>
 
-<br><br><br>
----
+#
  
 <div style="display: inline_block"><br>
     <img align="center" alt="Uemura-PS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
