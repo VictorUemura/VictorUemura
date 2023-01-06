@@ -4,8 +4,8 @@
 - 🔭 Cursando: 2º Termo de Ciências da Computação
 
 <div align="center">
-  <a href="https://github.com/VictorUemura">
-  <img align="Left" height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorUemura&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/VictorHUemura">
+  <img align="Left" height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorHUemura&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
  <br>
 </div>
 
