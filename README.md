@@ -2,7 +2,7 @@
 
 ### Olá...
 - 🔭 Cursando: 2º Termo de Ciências da Computação
-<div style="display:flex;flex-direction:column;">
+
 <div align="center" style="display:flex;">
   <a href="https://github.com/VictorHUemura">
   <img align="Left" height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorHUemura&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -27,4 +27,4 @@
   <a href="mailto:victoruemura04@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/victor-hiroshi-uemura-3a1146235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-</div>
+
