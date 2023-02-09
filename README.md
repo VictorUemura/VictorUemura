@@ -5,7 +5,6 @@
 - 🌱 Atualmente estou aprendendo Javascript
 - 💬 Pergunte-me sobre livros
 
-
 #
 
 ![VictorHUemura GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorHUemura&show_icons=true&theme=dracula)
