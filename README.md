@@ -1,9 +1,7 @@
 
 
 ### Olá...
-- 🔭 Cursando: 3º Termo de Ciências da Computação
-- 🌱 Atualmente estou aprendendo Node.js
-- 💬 Pergunte-me sobre livros
+- 🔭 Cursando: 4º Termo de Ciências da Computação
 
 #
 
