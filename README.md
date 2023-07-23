@@ -5,11 +5,11 @@
 
 #
 
-![VictorHUemura GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorUemura&show_icons=true&theme=dracula)
+![VictorUemura GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorUemura&show_icons=true&theme=dracula)
 
 #
 
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorUemura&layout=compact&theme=dracula"></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorUemura&layout=compact&theme=dracula"></a>
 
 <h2>Habilidades:</h2> 
 <div style="display:flex;"><br>
