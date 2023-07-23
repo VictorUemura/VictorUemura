@@ -8,7 +8,7 @@
 ![VictorHUemura GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorUemura&show_icons=true&theme=dracula)
 
 #
-<div style="display:flex;justify-content:center;">
+<div style="display:flex;justify-content:center;align-items: center;">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorUemura&layout=compact&theme=dracula"></a>
 
 <h2>Habilidades:</h2> 
@@ -22,7 +22,7 @@
   <img align="center" alt="Uemura-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </div>
 </div>
-#
+
 
 #### Contato:
   <div style:"display:flex;">
