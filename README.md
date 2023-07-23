@@ -9,7 +9,8 @@
 
 #
 <div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorUemura&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorUemura&layout=compact&theme=dracula"></a>
+
 <h2>Habilidades:</h2> 
 <div style="display:flex;"><br>
     <img align="center" alt="Uemura-PS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
