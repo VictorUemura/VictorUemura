@@ -1,18 +1,14 @@
-### Olá...
-- 🔭 Cursando: 4º Termo de Ciências da Computação
+
+
+[<img align="left" height="150px" width="auto" src="https://github.com/VictorUemura/VictorUemura/blob/main/imageLeft.gif">](http://poolsofchrome.tumblr.com/post/79598460826/experiment)
+
+## Victor Uemura <img height="16px" width="16px" src="https://github.com/VictorUemura/VictorUemura/blob/main/binary.png" /> 
+
+Olá, sou Victor Uemura, um entusiasta da programação apaixonado por desafios em desenvolvimento de software. Tenho dedicado meu tempo ao estudo e aprimoramento. Estou sempre aberto a aprender e colaborar em projetos...
 
 #
 
-<div style="display: inline_block" align="center">
-     <a href="https://github.com/anuraghazra/github-readme-stats"><img height="180"
-               src="https://github-readme-stats.vercel.app/api?username=VictorUemura&show_icons=true&theme=dracula"></a>
-     <a href="https://github.com/anuraghazra/github-readme-stats"><img height="180"
-               src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorUemura&layout=compact&theme=dracula"></a>
-</div>
-
-#
-
-### Habilidades:
+**Habilidades:**
 <div style="display:flex;">
      <img align="center" alt="Uemura-PS" height="30" width="40"
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
@@ -32,7 +28,7 @@
 
 #
 
-### Contato:
+**Contato:**
 <div style:"display:flex;">
      <a href="https://www.instagram.com/uemura_victor" target="_blank"><img
                src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
