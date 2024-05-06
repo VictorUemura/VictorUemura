@@ -5,6 +5,7 @@
 ## Victor Uemura <img height="16px" width="16px" src="https://github.com/VictorUemura/VictorUemura/blob/main/binary.png" /> 
 
 Olá, sou Victor Uemura, um entusiasta da programação apaixonado por desafios em desenvolvimento de software. Tenho dedicado meu tempo ao estudo e aprimoramento. Estou sempre aberto a aprender e colaborar em projetos...
+Atualmente estou atuando como software develop jr. utilizando ASP.NET para o desenvolvimento de API's RESTFul.
 
 #
 
@@ -24,6 +25,19 @@ Olá, sou Victor Uemura, um entusiasta da programação apaixonado por desafios 
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
      <img align="center" alt="Uemura-java" height="30" width="40"
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+     <img align="center" alt="Uemura-csharp" height="30" width="40"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+     <img align="center" alt="Uemura-dot-net" height="30" width="40"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" />
+     <img align="center" alt="Uemura-dot-net-core" height="30" width="40"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+     <img align="center" alt="Uemura-spring" height="30" width="40"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
+     <img align="center" alt="Uemura-mysql" height="30" width="40"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+     <img align="center" alt="Uemura-oracle" height="30" width="40"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
+
 </div>
 
 #
