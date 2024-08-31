@@ -5,7 +5,7 @@
 ## Victor Uemura <img height="16px" width="16px" src="https://github.com/VictorUemura/VictorUemura/blob/main/binary.png" /> 
 
 Olá, sou Victor Uemura, um entusiasta da programação apaixonado por desafios em desenvolvimento de software. Tenho dedicado meu tempo ao estudo e aprimoramento. Estou sempre aberto a aprender e colaborar em projetos...
-Atualmente estou atuando como software develop jr. utilizando ASP.NET para o desenvolvimento de API's RESTFul.
+Atualmente estou atuando como software develop jr. utilizando Spring Boot e Angular como desenvolvedor FullStack.
 
 #
 
