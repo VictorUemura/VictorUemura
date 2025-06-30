@@ -5,8 +5,6 @@
 ## Victor Uemura <img height="16px" width="16px" src="https://github.com/VictorUemura/VictorUemura/blob/main/binary.png" /> 
 Olá! Sou o Victor, um desenvolvedor apaixonado por construir soluções completas e eficientes. Estou no último período de **Ciência da Computação** na UNOESTE e já possuo uma bagagem sólida em projetos reais, participando ativamente de todas as etapas, da concepção à entrega final.
 
-Minha jornada profissional é diversificada, passando por uma startup do setor financeiro, importação e comércio de veículos. Essa trajetória me deu uma visão ampla de diferentes regras de negócio e desafios de mercado.
-
 Busco constantemente meu desenvolvimento profissional, tanto no aprimoramento técnico quanto nas habilidades de comunicação e trabalho em equipe.
 
 ---
