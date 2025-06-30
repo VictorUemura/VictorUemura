@@ -3,10 +3,22 @@
 [<img align="left" height="150px" width="auto" src="https://github.com/VictorUemura/VictorUemura/blob/main/imageLeft.gif">](http://poolsofchrome.tumblr.com/post/79598460826/experiment)
 
 ## Victor Uemura <img height="16px" width="16px" src="https://github.com/VictorUemura/VictorUemura/blob/main/binary.png" /> 
+Olá! Sou o Victor, um desenvolvedor apaixonado por construir soluções completas e eficientes. Estou no último período de **Ciência da Computação** na UNOESTE e já possuo uma bagagem sólida em projetos reais, participando ativamente de todas as etapas, da concepção à entrega final.
 
-Olá, sou Victor Uemura, um entusiasta da programação apaixonado por desafios em desenvolvimento de software. Tenho dedicado meu tempo ao estudo e aprimoramento. Estou sempre aberto a aprender e colaborar em projetos...
-Atualmente estou atuando como software develop jr. utilizando Spring Boot e Angular como desenvolvedor FullStack.
+Minha jornada profissional é diversificada, passando por uma startup do setor financeiro, importação e comércio de veículos. Essa trajetória me deu uma visão ampla de diferentes regras de negócio e desafios de mercado.
 
+Busco constantemente meu desenvolvimento profissional, tanto no aprimoramento técnico quanto nas habilidades de comunicação e trabalho em equipe.
+
+---
+
+### Stack de Tecnologias
+
+Minha stack principal é focada no ecossistema Java, mas tenho flexibilidade para trabalhar com outras tecnologias.
+
+* **Linguagens:** Java, JavaScript
+* **Back-end:** Spring Boot, Spring Framework, Spring Data, Node.js, Express
+* **Front-end:** React.js, Next.js
+* **Infraestrutura e Ferramentas:** Docker, Redis, Git
 #
 
 **Habilidades:**
@@ -50,7 +62,7 @@ Atualmente estou atuando como software develop jr. utilizando Spring Boot e Angu
      <a href="mailto:victoruemura04@hotmail.com" target="_blank"><img
                src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"
                target="_blank"></a>
-     <a href="https://www.linkedin.com/in/victor-hiroshi-uemura-3a1146235/" target="_blank"><img
+     <a href="https://www.linkedin.com/in/victorhiroshiuemura/" target="_blank"><img
                src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
                target="_blank"></a>
 </div>
